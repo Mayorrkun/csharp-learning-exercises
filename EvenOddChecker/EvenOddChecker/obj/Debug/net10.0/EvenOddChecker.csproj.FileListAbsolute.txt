@@ -1,0 +1,14 @@
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\EvenOddChecker\EvenOddChecker\bin\Debug\net10.0\EvenOddChecker.exe
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\EvenOddChecker\EvenOddChecker\bin\Debug\net10.0\EvenOddChecker.deps.json
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\EvenOddChecker\EvenOddChecker\bin\Debug\net10.0\EvenOddChecker.runtimeconfig.json
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\EvenOddChecker\EvenOddChecker\bin\Debug\net10.0\EvenOddChecker.dll
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\EvenOddChecker\EvenOddChecker\bin\Debug\net10.0\EvenOddChecker.pdb
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\EvenOddChecker\EvenOddChecker\obj\Debug\net10.0\EvenOddChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\EvenOddChecker\EvenOddChecker\obj\Debug\net10.0\EvenOddChecker.AssemblyInfoInputs.cache
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\EvenOddChecker\EvenOddChecker\obj\Debug\net10.0\EvenOddChecker.AssemblyInfo.cs
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\EvenOddChecker\EvenOddChecker\obj\Debug\net10.0\EvenOddChecker.csproj.CoreCompileInputs.cache
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\EvenOddChecker\EvenOddChecker\obj\Debug\net10.0\EvenOddChecker.dll
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\EvenOddChecker\EvenOddChecker\obj\Debug\net10.0\refint\EvenOddChecker.dll
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\EvenOddChecker\EvenOddChecker\obj\Debug\net10.0\EvenOddChecker.pdb
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\EvenOddChecker\EvenOddChecker\obj\Debug\net10.0\EvenOddChecker.genruntimeconfig.cache
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\EvenOddChecker\EvenOddChecker\obj\Debug\net10.0\ref\EvenOddChecker.dll

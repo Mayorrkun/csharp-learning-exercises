@@ -1,0 +1,14 @@
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\StoringUserData\StoringUserData\obj\Debug\net10.0\StoringUserData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\StoringUserData\StoringUserData\obj\Debug\net10.0\StoringUserData.AssemblyInfoInputs.cache
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\StoringUserData\StoringUserData\obj\Debug\net10.0\StoringUserData.AssemblyInfo.cs
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\StoringUserData\StoringUserData\obj\Debug\net10.0\StoringUserData.csproj.CoreCompileInputs.cache
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\StoringUserData\StoringUserData\bin\Debug\net10.0\StoringUserData.exe
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\StoringUserData\StoringUserData\bin\Debug\net10.0\StoringUserData.deps.json
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\StoringUserData\StoringUserData\bin\Debug\net10.0\StoringUserData.runtimeconfig.json
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\StoringUserData\StoringUserData\bin\Debug\net10.0\StoringUserData.dll
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\StoringUserData\StoringUserData\bin\Debug\net10.0\StoringUserData.pdb
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\StoringUserData\StoringUserData\obj\Debug\net10.0\StoringUserData.dll
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\StoringUserData\StoringUserData\obj\Debug\net10.0\refint\StoringUserData.dll
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\StoringUserData\StoringUserData\obj\Debug\net10.0\StoringUserData.pdb
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\StoringUserData\StoringUserData\obj\Debug\net10.0\StoringUserData.genruntimeconfig.cache
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\StoringUserData\StoringUserData\obj\Debug\net10.0\ref\StoringUserData.dll
