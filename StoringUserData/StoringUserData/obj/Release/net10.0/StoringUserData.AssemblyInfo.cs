@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StoringUserData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ab3196f18acaa34be2e5cb15247bcbe52608c09")]
 [assembly: System.Reflection.AssemblyProductAttribute("StoringUserData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StoringUserData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

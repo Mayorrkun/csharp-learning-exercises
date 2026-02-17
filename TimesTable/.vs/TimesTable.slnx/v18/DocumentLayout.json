@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MindsAuthor\\Desktop\\csharp-learning-exercises\\TimesTable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4621D02B-FDC9-4F99-832B-062116920DD7}|TimesTable\\TimesTable.csproj|c:\\users\\mindsauthor\\desktop\\csharp-learning-exercises\\timestable\\timestable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4621D02B-FDC9-4F99-832B-062116920DD7}|TimesTable\\TimesTable.csproj|solutionrelative:timestable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MindsAuthor\\Desktop\\csharp-learning-exercises\\TimesTable\\TimesTable\\Program.cs",
+              "RelativeDocumentMoniker": "TimesTable\\Program.cs",
+              "ToolTip": "C:\\Users\\MindsAuthor\\Desktop\\csharp-learning-exercises\\TimesTable\\TimesTable\\Program.cs",
+              "RelativeToolTip": "TimesTable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:33:16.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
