@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EvenOddChecker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02ee95f4cdfaff4a69195d51822f3b617b9e0808")]
 [assembly: System.Reflection.AssemblyProductAttribute("EvenOddChecker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EvenOddChecker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

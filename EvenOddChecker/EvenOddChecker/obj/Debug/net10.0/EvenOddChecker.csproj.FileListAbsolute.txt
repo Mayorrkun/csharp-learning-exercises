@@ -12,3 +12,4 @@ C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\EvenOddChecker\EvenOddChe
 C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\EvenOddChecker\EvenOddChecker\obj\Debug\net10.0\EvenOddChecker.pdb
 C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\EvenOddChecker\EvenOddChecker\obj\Debug\net10.0\EvenOddChecker.genruntimeconfig.cache
 C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\EvenOddChecker\EvenOddChecker\obj\Debug\net10.0\ref\EvenOddChecker.dll
+C:\Users\MindsAuthor\Desktop\csharp-learning-exercises\EvenOddChecker\EvenOddChecker\obj\Debug\net10.0\EvenOddChecker.sourcelink.json
