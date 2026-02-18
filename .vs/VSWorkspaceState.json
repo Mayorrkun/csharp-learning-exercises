@@ -1,4 +1,10 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\StoringUserData",
+    "\\TimesTable",
+    "\\TimesTable\\TimesTable"
+  ],
+  "SelectedNode": "\\StoringUserData\\StoringUserData.slnx",
   "PreviewInSolutionExplorer": false
 }

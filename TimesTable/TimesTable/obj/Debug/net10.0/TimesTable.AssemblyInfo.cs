@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TimesTable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ab3196f18acaa34be2e5cb15247bcbe52608c09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbd3803e3354deaf090f1a03976a0c49f28fafcd")]
 [assembly: System.Reflection.AssemblyProductAttribute("TimesTable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TimesTable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

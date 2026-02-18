@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MindsAuthor\\.nuget\\packages\\": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MindsAuthor\\Desktop\\csharp-learning-exercises\\TimesTable\\TimesTable\\TimesTable.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\csharp-learning-exercises\\TimesTable\\TimesTable\\TimesTable.csproj",
       "projectName": "TimesTable",
-      "projectPath": "C:\\Users\\MindsAuthor\\Desktop\\csharp-learning-exercises\\TimesTable\\TimesTable\\TimesTable.csproj",
-      "packagesPath": "C:\\Users\\MindsAuthor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MindsAuthor\\Desktop\\csharp-learning-exercises\\TimesTable\\TimesTable\\obj\\",
+      "projectPath": "C:\\Users\\USER\\Desktop\\csharp-learning-exercises\\TimesTable\\TimesTable\\TimesTable.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\csharp-learning-exercises\\TimesTable\\TimesTable\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MindsAuthor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
